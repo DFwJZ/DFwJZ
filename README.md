@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jason Zhang</h1>
-<h3 align="center">A passionate Cyber Intelligence Learner/Ethical H3cker</h3>
+
+
+<img align="left" alt="cat_typing" width="80"  height="80" src="./cat_typing.gif"> 
+&nbsp;&nbsp<h2 align="center"> Hi, Welcome to Jason's Github Page</h2>
+<h4> A passionate Cyber Intelligence Learner/Ethical H3cker </h3>
+
+<hr>
+
+- :school_satchel: I'm a graduate student studying Computer Science at Northeastern University 
+- :mortar_board: I have a bachelor degree in petroleum engineering and a master degree in Geophysics
+- :floppy_disk: I'm seeking for 2023 Cybersecurity internships/ Co-op opportunities
 
 - 🌱 I’m currently learning **Web Security, Cloud Security**
 - 👨‍💻 Checkout my recent projects </br>
@@ -17,6 +26,11 @@
 
 - 📄 Know about my experiences [<a href="https://www.dropbox.com/s/k56cmo8p9egtm9v/Cyber_security_intern_jason_zhang_1218_reduced.pdf?dl=0">Resume</a>]
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/haozhe-zhang-4a8757108/">
+<img align="mid" alt="Jason | Linkedin" width="45px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" src = "https://www.linkedin.com/in/haozhe-zhang-4a8757108/" />
+</a>
+
 <p align="left">
 </p>
 
@@ -28,4 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonTheH3cker&show_icons=true&locale=en" alt="JasonTheH3cker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JasonTheH3cker&" alt="JasonTheH3cker" /></p>
+
+
+
 
