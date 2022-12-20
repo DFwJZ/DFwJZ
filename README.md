@@ -1,10 +1,11 @@
 
 
-<img align="left" alt="cat_typing" width="80"  height="80" src="./cat_typing.gif"> 
-&nbsp;&nbsp<h2 align="center"> Hi, Welcome to Jason's Github Page</h2>
-<h4> A passionate Cyber Intelligence Learner/Ethical H3cker </h3>
+<img align="left" alt="cat_typing" width="100"  height="100" src="./cat_typing.gif"> <img align="right" alt="hacker" width="100"  height="100" src="https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-desktop@1/v1627640103/itpro/2021/07/shutterstock_hacker.jpg">
 
-<hr>
+</br>
+
+<h2 align="center"> Hi, Welcome to Jason's Github Page</h2> 
+
 
 - :school_satchel: I'm a graduate student studying Computer Science at Northeastern University 
 - :mortar_board: I have a bachelor degree in petroleum engineering and a master degree in Geophysics
