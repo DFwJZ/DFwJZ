@@ -8,7 +8,9 @@
 - :school_satchel: I'm a graduate student studying Computer Science at <a href="https://www.northeastern.edu/">Northeastern University</a>
 - :mortar_board: I have a bachelor degree in petroleum engineering and a master degree in Geophysics
 - :floppy_disk: I'm seeking for 2023 Cybersecurity internships/ Co-op opportunities
-- 🌱 I’m currently learning ** [Redis, Docker -Python](https://github.com/JasonTheH3cker/codecrafters-redis-python) **
+- 🌱 I’m currently learning <br>
+  ** [Redis -Python](https://github.com/JasonTheH3cker/codecrafters-redis-python) ** <br>
+  ** [Docker -Python](https://github.com/JasonTheH3cker/codecrafters-docker-python) **            
 
 - 👨‍💻 Checkout my recent projects/classes archive </br>
   - <b>CyberSecurity</b>
