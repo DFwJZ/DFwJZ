@@ -15,8 +15,9 @@
   * [Domain Name System (DNS)] <br> 
   * [Virtual Private Network (VPN)] <br> 
   * [Visualized Firewall Logs](https://github.com/JasonTheH3cker/SIEM_Sentinel)<br> 
-- :zap: I'm also learning low-level networking realted programming <br>
+- :zap: I'm also learning low-level networking realted and API programming <br>
   *  [Socket Programming (RUST)](https://github.com/JasonTheH3cker/socket_programming)
+  *  [API Programming (Django)](https://github.com/JasonTheH3cker/myproject)
 - 👨‍💻 Checkout my recent projects/classes archive </br>
   - <b>CyberSecurity</b>
     * [Azure Based Honey Pot(SIEM)](https://github.com/JasonTheH3cker/SIEM_Sentinel)
