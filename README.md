@@ -15,13 +15,16 @@
   * [Domain Name System (DNS)] <br> 
   * [Virtual Private Network (VPN)] <br> 
   * [Visualized Firewall Logs](https://github.com/JasonTheH3cker/SIEM_Sentinel)<br> 
-- :zap: I'm also learning low-level networking realted and API programming <br>
-  *  [Socket Programming (RUST)](https://github.com/JasonTheH3cker/socket_programming)
-  *  [API Programming (Django)](https://github.com/JasonTheH3cker/myproject)
+- :zap: I'm learning in Spring 2023 <br>
+  *  [DetectGPT Reconstruct (NLP)](in progress...)
+  *  [Cloud Security(Rpi 4 based password manager)](in progress...)
+  *  [Network Security(Rpi 4 based portable VPN console)](Preparing...)
 - 👨‍💻 Checkout my recent projects/classes archive </br>
   - <b>CyberSecurity</b>
+    * [Client-Server Socket Programming (RUST)](https://github.com/JasonTheH3cker/socket_programming)
     * [Azure Based Honey Pot(SIEM)](https://github.com/JasonTheH3cker/SIEM_Sentinel)
     * [Traditional Active Directory Lab on Azure (AD)](https://github.com/JasonTheH3cker/AD_Lab_Azure)
+    *  [API Programming (Django)](https://github.com/JasonTheH3cker/myproject)
   - <b>Class Projects and Assignments Archive</b>
     * [CS 5800 Cordiance Experiential Project](https://github.com/JasonTheH3cker/CS5800-Cordiance-Experiential-Project)
     * [CS 5520 Mobile Dev](https://github.com/JasonTheH3cker/NUMAD22Fa_HaozheZhang)
