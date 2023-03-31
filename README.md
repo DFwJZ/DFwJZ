@@ -38,7 +38,7 @@
    
 - 📫 How to reach me **jasonhz227@gmail.com**
 
-- 📄 Know about my experiences [<a href="https://www.dropbox.com/s/k56cmo8p9egtm9v/Cyber_security_intern_jason_zhang_1218_reduced.pdf?dl=0">Resume</a>]
+- 📄 Know about my experiences [<a href="https://www.dropbox.com/s/xqiz3yq6w5yfeab/Cyber_Resume_Mar_2022_Jason.pdf?dl=0">Resume</a>]
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/haozhe-zhang-4a8757108/">
