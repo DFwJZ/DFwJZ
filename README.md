@@ -7,15 +7,17 @@
 
 - :school_satchel: I'm a graduate student studying Computer Science at <a href="https://www.northeastern.edu/">Northeastern University</a>
 - :mortar_board: I have a bachelor degree in petroleum engineering and a master degree in Geophysics
+- :paperclip: I am currently working as a <b>Content Creator</b> and <b>Content Strategist</b> at a freelance start-up at Garagol Cyber Academy TM.
 - :floppy_disk: I'm seeking for 2023 Cybersecurity internships/ Co-op opportunities
-- 🌱 I’m currently working on building a <b>SIEM</b> (security information and event management) <br>
+- 🌱 <b>SIEM</b> Project 2023-2024 (security information and event management) <br>
   * [Active Directory](https://github.com/JasonTheH3cker/AD_Lab_Azure) <br>
   * [Protocol (LDAP) server] <br> 
   * [Dynamic Host Configuration Protocol (DHCP) event logs] <br> 
   * [Domain Name System (DNS)] <br> 
   * [Virtual Private Network (VPN)] <br> 
   * [Visualized Firewall Logs](https://github.com/JasonTheH3cker/SIEM_Sentinel)<br> 
-- :zap: I'm learning in Spring 2023 <br>
+- :zap: Other projects I am currently working on: <br>
+  *  [Educational/Proof-of-concept Security Content](https://github.com/JasonTheH3cker/educational_security_scripts_python)(Freelance)
   *  [DetectGPT Reconstruct (NLP)](in progress...)
   *  [Cloud Security(Rpi 4 based password manager)](in progress...)
   *  [Network Security(Rpi 4 based portable VPN console)](Preparing...)
