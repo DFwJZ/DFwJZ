@@ -5,7 +5,6 @@
 <h2 align="center"> Hi, Welcome to Jason's Github Page</h2> 
 
 
-- :school_satchel: I'm a graduate student studying Computer Science at <a href="https://www.northeastern.edu/">Northeastern University</a>
 - :mortar_board: I have a bachelor degree in petroleum engineering and a master degree in Geophysics
 - :paperclip: I am currently working as a <b>Content Creator</b> and <b>Content Strategist</b> at a freelance start-up at Garagol Cyber Academy TM.
 - :floppy_disk: I'm seeking for 2023 Cybersecurity internships/ Co-op opportunities
