@@ -7,7 +7,7 @@
 
 - :mortar_board: I have a bachelor degree in petroleum engineering and a master degree in Geophysics
 - :paperclip: I am currently working as a <b>Content Creator</b> and <b>Content Strategist</b> at a freelance start-up at Garagol Cyber Academy TM.
-- :floppy_disk: I'm seeking for 2023 Cybersecurity internships/ Co-op opportunities
+
 - 🌱 <b>SIEM</b> Project 2023-2024 (security information and event management) <br>
   * [Active Directory](https://github.com/JasonTheH3cker/AD_Lab_Azure) <br>
   * [Protocol (LDAP) server] <br> 
